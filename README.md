@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on My self projcts...
+- 🔭 I’m currently working in My self projcts...
 - 🌱 I’m currently Python, R, and c++.
 - 👯 I’m looking to collaborate on QA, Python, R, Tableau,C, C++ Html and CSS.
 
